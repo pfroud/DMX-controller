@@ -804,7 +804,7 @@
     (uuid 0b856e1d-62f6-491f-9501-fb065244f252)
     (property "Reference" "J1" (id 0) (at 210.82 76.2 0))
     (property "Value" "DMX_output" (id 1) (at 210.82 78.74 0))
-    (property "Footprint" "TerminalBlock:TerminalBlock_bornier-3_P5.08mm" (id 2) (at 210.82 85.09 0)
+    (property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-3-5.08_1x03_P5.08mm_Horizontal" (id 2) (at 210.82 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 210.82 85.09 0)
@@ -1186,7 +1186,7 @@
       (reference "A1") (unit 1) (value "Arduino_Nano_v3.x") (footprint "Module:Arduino_Nano")
     )
     (path "/0b856e1d-62f6-491f-9501-fb065244f252"
-      (reference "J1") (unit 1) (value "DMX_output") (footprint "TerminalBlock:TerminalBlock_bornier-3_P5.08mm")
+      (reference "J1") (unit 1) (value "DMX_output") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-3-5.08_1x03_P5.08mm_Horizontal")
     )
     (path "/de29216a-baed-4cb1-ab4e-d5a5a710d61b"
       (reference "RV1") (unit 1) (value "slider_1_dim") (footprint "DMX_controller:slide_potentiometer_OAK_A50K")

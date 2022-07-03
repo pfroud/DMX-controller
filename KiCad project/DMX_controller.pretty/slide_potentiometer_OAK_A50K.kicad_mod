@@ -38,4 +38,9 @@
   (pad "1" thru_hole oval (at 4.57 80) (size 3.77 6.45) (drill oval 0.77 3.45) (layers *.Cu *.Mask) (tstamp 853ee787-6e2c-4f32-bc75-6c17337dd3d5))
   (pad "2" thru_hole oval (at 9.39 84.87) (size 3.77 6.45) (drill oval 0.77 3.45) (layers *.Cu *.Mask) (tstamp 275aa44a-b61f-489f-9e2a-819a0fe0d1eb))
   (pad "3" thru_hole oval (at 4.47 9.48) (size 3.77 6.45) (drill oval 0.77 3.45) (layers *.Cu *.Mask) (tstamp 3451168c-3c76-4628-aee4-7c231bd100c3))
+  (model "${KIPRJMOD}/3D models/OAK A50K slide potentiometer.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

@@ -308,7 +308,7 @@
       (net 37 "unconnected-(A1-Pad29)") (pinfunction "GND") (pintype "power_in+no_connect") (tstamp 7162b564-0026-4463-bc92-2d5efc68f684))
     (pad "30" thru_hole oval (at 15.24 0 180) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask)
       (net 29 "unconnected-(A1-Pad30)") (pinfunction "VIN") (pintype "power_in+no_connect") (tstamp 4fa4ede5-7883-47e6-ae75-76f869a88473))
-    (model "${KICAD6_3DMODEL_DIR}/Module.3dshapes/Arduino_Nano_WithMountingHoles.wrl"
+    (model "${KIPRJMOD}/3D models/arduino_nano.x3d"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))

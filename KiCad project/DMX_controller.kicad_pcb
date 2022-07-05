@@ -43,6 +43,7 @@
 
   (setup
     (pad_to_mask_clearance 0)
+    (grid_origin 45.72 157.48)
     (pcbplotparams
       (layerselection 0x00010fc_ffffffff)
       (disableapertmacros false)

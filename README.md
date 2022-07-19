@@ -2,6 +2,13 @@
 
 Four-channel DMX controller.
 
+<table>
+<tr>
+<td><img src="img/DMX-controller-revision-1-PCB.jpeg" alt="DMX controller PCB"></td>
+<td><img src="img/DMX-controller-revision-1-assembled.jpeg" alt="DMX controller assembled"></td>
+</tr>
+</table>
+
 Parts: 
 
 * Arduino Nano (the one with ATmega328) (Not Arduino Micro, which has ATmega32U4)

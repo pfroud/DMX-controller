@@ -716,6 +716,12 @@
     (uuid f82d5041-df4e-423a-8bb5-6f75167458eb)
   )
 
+  (text "Copyright Peter Froud 2022.\n\nThis source describes Open Hardware and is licensed under the CERN-OHL-S v2.\n\nYou may redistribute and modify this source and make products using it under\nthe terms of the CERN-OHL-S v2 (https://ohwr.org/cern_ohl_s_v2.txt).\n\nThis source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY,\nINCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A\nPARTICULAR PURPOSE. Please see the CERN-OHL-S v2 for applicable conditions. \n\nSource location: https://github.com/pfroud/DMX-controller"
+    (at 15.24 200.66 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid f57b8d6b-4502-4cba-9881-8bd7056e2705)
+  )
+
   (label "A0" (at 135.89 88.9 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 401d17f7-b308-49f4-8c05-8fc230771f13)

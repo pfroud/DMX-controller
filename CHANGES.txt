@@ -1,0 +1,4 @@
+Anyone modifying the design should provide brief information about
+the modifications, including the date they were made. Information
+about the design should be added but never removed from this file.
+See section 3.3.b of the license.

@@ -16,3 +16,5 @@ Parts:
 * Four slide potentiometers
 * TTL-to-RS485 transceiver https://www.aliexpress.com/item/2251832519311238.html
 * A slide switch to disconnect the Arduino's RX & TX pins so it can be programmed over USB
+
+It was designed with [KiCad](https://www.kicad.org/) version 6.

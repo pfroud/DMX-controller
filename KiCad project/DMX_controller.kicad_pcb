@@ -809,9 +809,6 @@
   )
 
   (gr_rect (start 45.72 35.56) (end 185.42 157.48) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 1f4ef429-1810-4e61-a87f-e844e9945255))
-  (gr_text "by Peter Froud" (at 157.48 114.3 90) (layer "F.SilkS") (tstamp 04a21c11-13b8-44bf-8fff-a28ea168c2f3)
-    (effects (font (size 3 3) (thickness 0.3)) (justify left))
-  )
   (gr_text "prgrming." (at 167.499928 63.948531 90) (layer "F.SilkS") (tstamp 0bd3e665-7124-446a-b1ae-c9299509d4e0)
     (effects (font (size 0.75 0.75) (thickness 0.1)))
   )
@@ -847,6 +844,12 @@
   )
   (gr_text "CCT" (at 78.74 147.32) (layer "F.SilkS") (tstamp 8adbd38a-7c37-4005-b598-2b2efa6deeb1)
     (effects (font (size 4 4) (thickness 0.15)) (justify left))
+  )
+  (gr_text "Copyright 2022 Peter Froud and others.\nLicensed under CERN-OHL-S v2.\nSource location: https://github.com/pfroud/DMX-controller" (at 177.8 139.7 90) (layer "F.SilkS") (tstamp c8b2b7d1-c531-40b1-82ae-a7393f3e3495)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left))
+  )
+  (gr_text "Copyright Peter Froud 2022.\n\nThis source describes Open Hardware and is licensed under the CERN-OHL-S v2.\n\nYou may redistribute and modify this source and make products using it under\nthe terms of the CERN-OHL-S v2 (https://ohwr.org/cern_ohl_s_v2.txt).\n\nThis source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY,\nINCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A\nPARTICULAR PURPOSE. Please see the CERN-OHL-S v2 for applicable conditions. \n\nSource location: https://github.com/pfroud/DMX-controller" (at 15.24 190.5) (layer "Eco1.User") (tstamp 86ffa632-90b8-478a-87ed-4e3962700928)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left))
   )
 
   (segment (start 149.86 91.44) (end 154.94 86.36) (width 0.5) (layer "F.Cu") (net 1) (tstamp 0a81ef33-1bf2-400b-94c5-59f4bf4ad111))

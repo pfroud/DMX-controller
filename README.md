@@ -4,8 +4,9 @@ Four-channel DMX controller.
 
 <table>
 <tr>
-<td><img src="img/DMX-controller-revision-1-PCB.jpeg" alt="DMX controller PCB"></td>
-<td><img src="img/DMX-controller-revision-1-assembled.jpeg" alt="DMX controller assembled"></td>
+<td><img src="img/DMX-controller-revision-1-KiCad-screenshot.png" alt="Screenshot of DMX controller PCB"></td>
+<td><img src="img/DMX-controller-revision-1-PCB.jpeg" alt="Photo of DMX controller PCB"></td>
+<td><img src="img/DMX-controller-revision-1-assembled.jpeg" alt="Photo of DMX controller assembled"></td>
 </tr>
 </table>
 

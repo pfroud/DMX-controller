@@ -3,3 +3,6 @@ https://grabcad.com/library/arduino-nano-case-3d-printed-1
 
 See GrabCAD help article "How can models be used and shared?"
 https://help.grabcad.com/article/246-how-can-models-be-used-and-shared
+
+Modified by Peter Froud on July 5th 2022. I removed the four pins on
+top and the microprocessor from the 3D model to reduce the file size.

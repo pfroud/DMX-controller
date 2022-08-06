@@ -1,3 +1,6 @@
+/*
+You can use this Arduino sketch to test your slide potentiometers.
+*/
 
 void setup() {
   Serial.begin(9600);

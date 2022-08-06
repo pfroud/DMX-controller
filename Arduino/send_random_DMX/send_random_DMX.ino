@@ -2,7 +2,11 @@
 
 #define DMX_MAXIMUM 255
 
-// http://www.mathertel.de/Arduino/DMXSerial.aspx
+/*
+You can use this Arduino sketch to test your RS-485 transceiver.
+See http://www.mathertel.de/Arduino/DMXSerial.aspx
+*/
+
 
 void setup() {
   DMXSerial.init(DMXController);

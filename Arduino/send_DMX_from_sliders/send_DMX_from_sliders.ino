@@ -1,7 +1,7 @@
 #include <TimerOne.h>
 #include <DMXSerial.h>
 
-// DMX is eight-bit so the maximum value is 2^8 - 1.
+// DMX is eight-bit, so the maximum value is 2^8 - 1.
 #define DMX_MAXIMUM 255
 #define DMX_MINIMUM 0
 

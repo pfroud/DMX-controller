@@ -8,9 +8,9 @@ This project was my first time designing a PCB, and my first time doing 3D print
 
 <table>
 <tr>
-<td><img src="img/revision-1/DMX-controller-revision-1-KiCad-screenshot.png" alt="Screenshot of DMX controller PCB"></td>
-<td><img src="img/revision-1/DMX-controller-revision-1-PCB.jpeg" alt="Photo of DMX controller PCB"></td>
-<td><img src="img/revision-1/DMX-controller-revision-1-assembled.jpeg" alt="Photo of DMX controller assembled"></td>
+<td><img src="https://github.com/pfroud/DMX-controller/blob/main/img/revision-1/DMX-controller-revision-1-KiCad-screenshot.png" alt="Screenshot of DMX controller PCB"></td>
+<td><img src="https://github.com/pfroud/DMX-controller/blob/main/img/revision-1/DMX-controller-revision-1-PCB.jpeg" alt="Photo of DMX controller PCB"></td>
+<td><img src="https://github.com/pfroud/DMX-controller/blob/main/img/revision-1/DMX-controller-revision-1-assembled.jpeg" alt="Photo of DMX controller assembled"></td>
 </tr>
 </table>
 
@@ -28,9 +28,9 @@ The PCB was designed using [KiCad](https://www.kicad.org/) version 6 and fabrica
 
 <table>
 <tr>
-<td><img src="enclosure/img/enclosure-base-only.jpg" alt=""></td>
-<td><img src="enclosure/img/enclosure-with-assembly.jpg" alt=""></td>
-<td><img src="enclosure/img/enclosure-with-lid.jpg" alt=""></td>
+<td><img src="https://github.com/pfroud/DMX-controller/blob/main/enclosure/img/enclosure-base-only.jpg" alt=""></td>
+<td><img src="https://github.com/pfroud/DMX-controller/blob/main/enclosure/img/enclosure-with-assembly.jpg" alt=""></td>
+<td><img src="https://github.com/pfroud/DMX-controller/blob/main/enclosure/img/enclosure-with-lid.jpg" alt=""></td>
 </tr>
 </table>
 
@@ -47,10 +47,10 @@ In 2018, I made a prototype DMX controller without a PCB. It was pretty bad but 
 
 <table>
 <tr>
-<td><img src="img/prototype/DMX-controller-prototype-outside-top.jpeg" alt="Top exterior view of DMX controller prototype"></td>
-<td><img src="img/prototype/DMX-controller-prototype-outside-side.jpeg" alt="Side exterior view of DMX controller prototype"></td>
-<td><img src="img/prototype/DMX-controller-prototype-inside-wires.jpeg" alt="Inside view of DMX controller prototype, showing the wires"></td>
-<td><img src="img/prototype/DMX-controller-prototype-inside-arduino.jpeg" alt="Inside view of DMX controller prototype, showing the Arduino">
+<td><img src="https://github.com/pfroud/DMX-controller/blob/main/img/prototype/DMX-controller-prototype-outside-top.jpeg" alt="Top exterior view of DMX controller prototype"></td>
+<td><img src="https://github.com/pfroud/DMX-controller/blob/main/img/prototype/DMX-controller-prototype-outside-side.jpeg" alt="Side exterior view of DMX controller prototype"></td>
+<td><img src="https://github.com/pfroud/DMX-controller/blob/main/img/prototype/DMX-controller-prototype-inside-wires.jpeg" alt="Inside view of DMX controller prototype, showing the wires"></td>
+<td><img src="https://github.com/pfroud/DMX-controller/blob/main/img/prototype/DMX-controller-prototype-inside-arduino.jpeg" alt="Inside view of DMX controller prototype, showing the Arduino">
 </tr>
 </table>
 
